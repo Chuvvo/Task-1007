@@ -1,0 +1,17 @@
+﻿  Bezier_curve.cpp
+D:\Рабочий Стол\Task1007\Task1007\Task1007\Point.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Data.cpp
+D:\Рабочий Стол\Task1007\Task1007\Task1007\Point.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Main.cpp
+D:\Рабочий Стол\Task1007\Task1007\Task1007\Point.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Point.cpp
+D:\Рабочий Стол\Task1007\Task1007\Task1007\Point.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Point_2D.cpp
+D:\Рабочий Стол\Task1007\Task1007\Task1007\Point.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Point_3D.cpp
+D:\Рабочий Стол\Task1007\Task1007\Task1007\Point.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 434 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Task1007.vcxproj -> D:\Рабочий Стол\Task1007\Task1007\x64\Release\Task1007.exe
